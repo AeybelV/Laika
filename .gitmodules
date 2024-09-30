@@ -1,0 +1,6 @@
+[submodule "Laika_PCB"]
+	path = Laika_PCB
+	url = git@github.com:AeybelV/Laika_PCB.git
+[submodule "Laika_Yocto"]
+	path = Laika_Yocto
+	url = git@github.com:AeybelV/Laika_Yoto.git
